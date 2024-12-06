@@ -10,6 +10,13 @@ A modern web application that allows users to book tickets using voice commands,
 - Schedule Viewing 📅
 - Ticket Cancellation ❌
 
+## Interface
+![Login Page](Interface/IMG-20241206-WA0018.jpg "Login Page")
+![Main Menu](Interface/IMG-20241206-WA0019.jpg "Main Menu")
+![Booking Page](Interface/IMG-20241206-WA0020.jpg "Booking Page")
+![Schedule Page](Interface/IMG-20241206-WA0021.jpg "Schedule Page")
+![Cancel Booking Page](Interface/IMG-20241206-WA0022.jpg "Cancel Booking Page")
+
 ## Architecture 🏗️
 mermaid
 graph TD
