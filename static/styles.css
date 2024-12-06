@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+}
+
+.card {
+    border-radius: 15px;
+    border: none;
+}
+
+.card-body {
+    padding: 2rem;
+}
+
+.nav-pills .nav-link {
+    border-radius: 25px;
+    padding: 10px 30px;
+    color: #666;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #764ba2;
+}
+
+.form-control {
+    border-radius: 25px;
+    padding: 12px 20px;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border: none;
+    border-radius: 25px;
+    padding: 12px;
+    font-weight: 600;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+} 
